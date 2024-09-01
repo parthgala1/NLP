@@ -1,3 +1,3 @@
-## Experiment 1
+## Experiment 2
 
 > To understand how Named Entity Relation System works.
